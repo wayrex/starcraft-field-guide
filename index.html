@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#142e3b">
+  <meta name="description" content="An unofficial, independent-device guide to a first StarCraft TMG match.">
+  <title>Frontlines · StarCraft TMG Field Guide</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to current step</a>
+  <header class="masthead">
+    <a class="wordmark" href="#guide" aria-label="Field Guide home"><span class="sigil">F</span><span>FIELD GUIDE<small>STARCRAFT TMG · UNOFFICIAL</small></span></a>
+    <div class="local-tag"><span class="dot"></span> Independent progress on this device</div>
+  </header>
+  <nav class="tabs" aria-label="Companion views"><button data-view="guide">Guided play</button><button data-view="reference">Quick reference</button><button data-view="record">Match record</button></nav>
+  <div id="notice" role="status" aria-live="polite"></div>
+  <div id="app"><p class="loading">Preparing the field guide…</p></div>
+  <footer class="site-footer"><span id="offline">Checking offline copy…</span><span id="version"></span><p>Unofficial teaching aid. Physical legality and dice are resolved at the table. Publisher rules and FAQ take precedence.</p></footer>
+  <dialog id="confirm-dialog"><form method="dialog"><h2 id="confirm-title">Confirm action</h2><p id="confirm-message"></p><div class="actions"><button value="cancel">Cancel</button><button class="primary" value="confirm">Confirm</button></div></form></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <noscript>This companion needs JavaScript for match tracking. Use the official rulebook and cards if scripting is unavailable.</noscript>
+</body>
+</html>

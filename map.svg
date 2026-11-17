@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 850" width="700" height="850" role="img" aria-labelledby="title desc">
+  <title id="title">Cargo-yard map: 36 by 36 inches</title>
+  <desc id="desc">Official 36 by 36 inch battlefield with custom first-game placement. Ten terrain pieces: two Size 3 mirrored tall walls, two Size 2 containers, two Size 2 cardboard corners, two Size 1 barricades and two removable Size 2 Grass clumps. Objectives 1, 5 and 2 are at (7,18), (18,18), (29,18) inches. Grass circles mark centres only; actual footprints and physical fit are unverified. All battlefield coordinates are inches. Specified base and marker diameters remain in mm.</desc>
+  <rect width="700" height="850" fill="#ffffff" />
+  <style>text{font-family:Arial,sans-serif;fill:#182635} .minor{fill:#4e5e6b;font-size:12px} .label{font-size:14px;text-anchor:middle} .axis{font-size:12px;text-anchor:middle;fill:#4e5e6b}</style>
+  <text x="28" y="28" font-size="20">Cargo yard + Grass</text>
+  <text x="28" y="48" class="minor">36 x 36 inches | Frontlines objective mission | Updated 2026-11-17</text>
+  <rect x="58" y="92" width="576" height="96" fill="#f0f3f5" />
+  <rect x="58" y="572" width="576" height="96" fill="#f0f3f5" />
+  <line x1="58" x2="58" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="92" y2="92" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="106" x2="106" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="140" y2="140" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="154" x2="154" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="188" y2="188" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="202" x2="202" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="236" y2="236" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="250" x2="250" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="284" y2="284" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="298" x2="298" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="332" y2="332" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="346" x2="346" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="380" y2="380" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="394" x2="394" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="428" y2="428" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="442" x2="442" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="476" y2="476" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="490" x2="490" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="524" y2="524" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="538" x2="538" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="572" y2="572" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="586" x2="586" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="620" y2="620" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="634" x2="634" y1="92" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <line x1="58" x2="634" y1="668" y2="668" stroke="#e2e7eb" stroke-width="0.6" />
+  <g id="T1" data-x-inches="16.5" data-y-inches="13.5" data-size="3">
+    <title>T1: Size 3, centre (16.5, 13.5) inches</title>
+    <polyline points="370.0,332.0 274.0,332.0 274.0,284.0" fill="none" stroke="#243d69" stroke-width="5.2" stroke-linejoin="round" />
+    <text x="322.0" y="312.0" class="label">T1</text>
+  </g>
+  <g id="T2" data-x-inches="19.5" data-y-inches="22.5" data-size="3">
+    <title>T2: Size 3, centre (19.5, 22.5) inches</title>
+    <polyline points="322.0,476.0 322.0,428.0 418.0,428.0" fill="none" stroke="#243d69" stroke-width="5.2" stroke-linejoin="round" />
+    <text x="370.0" y="456.0" class="label">T2</text>
+  </g>
+  <g id="C1" data-x-inches="24.5" data-y-inches="8" data-size="2">
+    <title>C1: Size 2, centre (24.5, 8) inches</title>
+    <rect x="398.0" y="196" width="104" height="48" fill="#dae9ef" stroke="#347893" stroke-width="1.5" />
+    <text x="450.0" y="224" class="label">C1</text>
+  </g>
+  <g id="C2" data-x-inches="11.5" data-y-inches="28" data-size="2">
+    <title>C2: Size 2, centre (11.5, 28) inches</title>
+    <rect x="190.0" y="516" width="104" height="48" fill="#dae9ef" stroke="#347893" stroke-width="1.5" />
+    <text x="242.0" y="544" class="label">C2</text>
+  </g>
+  <g id="W1" data-x-inches="11.5" data-y-inches="6.5" data-size="2">
+    <title>W1: Size 2, centre (11.5, 6.5) inches</title>
+    <polyline points="194.0,220.0 194.0,172.0 290.0,172.0" fill="none" stroke="#347893" stroke-width="5.2" stroke-linejoin="round" />
+    <text x="242.0" y="200.0" class="label">W1</text>
+  </g>
+  <g id="W4" data-x-inches="24.5" data-y-inches="29.5" data-size="2">
+    <title>W4: Size 2, centre (24.5, 29.5) inches</title>
+    <polyline points="498.0,540.0 498.0,588.0 402.0,588.0" fill="none" stroke="#347893" stroke-width="5.2" stroke-linejoin="round" />
+    <text x="450.0" y="568.0" class="label">W4</text>
+  </g>
+  <g id="B1" data-x-inches="8.5" data-y-inches="14" data-size="1">
+    <title>B1: Size 1, centre (8.5, 14) inches</title>
+    <path d="M 154.0 324.0 Q 194.0 292.0 234.0 324.0" fill="none" stroke="#99713a" stroke-width="5.2" />
+    <text x="194.0" y="301" class="label">B1</text>
+  </g>
+  <g id="B2" data-x-inches="27.5" data-y-inches="22" data-size="1">
+    <title>B2: Size 1, centre (27.5, 22) inches</title>
+    <path d="M 458.0 436.0 Q 498.0 468.0 538.0 436.0" fill="none" stroke="#99713a" stroke-width="5.2" />
+    <text x="498.0" y="469" class="label">B2</text>
+  </g>
+  <g id="G1" data-x-inches="11.5" data-y-inches="16.5" data-size="2" data-keyword="GRASS" data-footprint="unmeasured">
+    <title>G1: Size 2, centre (11.5, 16.5) inches</title>
+    <circle cx="242.0" cy="356.0" r="16" fill="#d8edd6" stroke="#397449" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="242.0" y="360.0" class="label">G1</text>
+  </g>
+  <g id="G2" data-x-inches="24.5" data-y-inches="19.5" data-size="2" data-keyword="GRASS" data-footprint="unmeasured">
+    <title>G2: Size 2, centre (24.5, 19.5) inches</title>
+    <circle cx="450.0" cy="404.0" r="16" fill="#d8edd6" stroke="#397449" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="450.0" y="408.0" class="label">G2</text>
+  </g>
+  <circle cx="170" cy="380" r="10.078740157480315" fill="#ffffff" stroke="#182635" stroke-width="1.5" data-marker="1" data-x-inches="7" data-y-inches="18" />
+  <text x="170" y="384.5" class="label">1</text>
+  <circle cx="346" cy="380" r="10.078740157480315" fill="#ffffff" stroke="#182635" stroke-width="1.5" data-marker="5" data-x-inches="18" data-y-inches="18" />
+  <text x="346" y="384.5" class="label">5</text>
+  <circle cx="522" cy="380" r="10.078740157480315" fill="#ffffff" stroke="#182635" stroke-width="1.5" data-marker="2" data-x-inches="29" data-y-inches="18" />
+  <text x="522" y="384.5" class="label">2</text>
+  <rect x="58" y="92" width="576" height="576" fill="none" stroke="#526577" stroke-width="1.2" />
+  <text x="58" y="83" class="axis">0</text>
+  <text x="170" y="83" class="axis">7</text>
+  <text x="346" y="83" class="axis">18</text>
+  <text x="522" y="83" class="axis">29</text>
+  <text x="634" y="83" class="axis">36</text>
+  <text x="36" y="96" class="axis">0</text>
+  <text x="36" y="240" class="axis">9</text>
+  <text x="36" y="384" class="axis">18</text>
+  <text x="36" y="528" class="axis">27</text>
+  <text x="36" y="672" class="axis">36</text>
+  <text x="346" y="70" class="label">A: full Entry Edge, y=0</text>
+  <text x="346" y="692" class="label">B: full Entry Edge, y=36</text>
+  <rect x="28" y="716" width="12" height="12" fill="#243d69" />
+  <text x="47" y="726" class="minor">Size 3 tall walls</text>
+  <rect x="233" y="716" width="12" height="12" fill="#347893" />
+  <text x="252" y="726" class="minor">Size 2 solid terrain</text>
+  <rect x="435" y="716" width="12" height="12" fill="#99713a" />
+  <text x="454" y="726" class="minor">Size 1 barricades</text>
+  <circle cx="34" cy="754" r="7" fill="#d8edd6" stroke="#397449" stroke-width="1" stroke-dasharray="3 2" />
+  <text x="47" y="758" class="minor">G1/G2: removable Size 2 GRASS; circles mark centres only.</text>
+  <text x="28" y="788" class="minor">Shaded bands: 6-inch arrival exclusion zones. Units begin off-table in Reserves.</text>
+  <text x="28" y="812" class="minor">All coordinates in inches. Size governs cover/clearance, not measured height.</text>
+  <text x="28" y="836" class="minor">Terrain footprints and mirrored wall returns need a physical fit check.</text>
+</svg>
